@@ -1,0 +1,56 @@
+{
+    "packages": {
+        "clausvb/vlib": {
+            "4.2.1-p1": {
+                "name": "clausvb/vlib",
+                "version": "4.2.1-p1",
+                "version_normalized": "4.2.1.0-patch1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/simar0at/vLIB.git",
+                    "reference": "59c9e47692ac149e5ac02ee6e8e089d388431257"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/simar0at/vLIB/zipball/59c9e47692ac149e5ac02ee6e8e089d388431257",
+                    "reference": "59c9e47692ac149e5ac02ee6e8e089d388431257",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.1.4"
+                },
+                "time": "2014-01-13 11:01:56",
+                "type": "library",
+                "support": {
+                    "source": "https://github.com/simar0at/vLIB/tree/4.2.1-p1",
+                    "issues": "https://github.com/simar0at/vLIB/issues"
+                }
+            },
+            "dev-master": {
+                "name": "clausvb/vlib",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/simar0at/vLIB.git",
+                    "reference": "59c9e47692ac149e5ac02ee6e8e089d388431257"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/simar0at/vLIB/zipball/59c9e47692ac149e5ac02ee6e8e089d388431257",
+                    "reference": "59c9e47692ac149e5ac02ee6e8e089d388431257",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.1.4"
+                },
+                "time": "2014-01-13 11:01:56",
+                "type": "library",
+                "support": {
+                    "source": "https://github.com/simar0at/vLIB/tree/4.2.1-p1",
+                    "issues": "https://github.com/simar0at/vLIB/issues"
+                }
+            }
+        }
+    }
+}
