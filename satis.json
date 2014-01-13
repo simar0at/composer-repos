@@ -1,0 +1,8 @@
+{
+	"name": "ACDH Projects",
+    "homepage": "http://localhost",
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/simar0at/vLIB" }
+    ],
+    "require-all": true
+}
