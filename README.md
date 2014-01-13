@@ -12,4 +12,6 @@ Build using
 
 php .\satis\bin\satis build .\satis.json web\
 
-web is exported in the gh-pages branch
+web is exported in the gh-pages branch.
+
+So the meta-repo can be found at http://simar0at.github.io/composer-repos/
