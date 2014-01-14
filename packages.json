@@ -33,21 +33,26 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/simar0at/vLIB.git",
-                    "reference": "59c9e47692ac149e5ac02ee6e8e089d388431257"
+                    "reference": "5b19eb0a2679ebbe9891be84ed8b9f0dd1b9445b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/simar0at/vLIB/zipball/59c9e47692ac149e5ac02ee6e8e089d388431257",
-                    "reference": "59c9e47692ac149e5ac02ee6e8e089d388431257",
+                    "url": "https://api.github.com/repos/simar0at/vLIB/zipball/5b19eb0a2679ebbe9891be84ed8b9f0dd1b9445b",
+                    "reference": "5b19eb0a2679ebbe9891be84ed8b9f0dd1b9445b",
                     "shasum": ""
                 },
                 "require": {
-                    "php": ">=5.1.4"
+                    "php": ">=5.3.3"
                 },
-                "time": "2014-01-13 11:01:56",
+                "time": "2014-01-14 11:57:25",
                 "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "clausvb\\vlib\\": ""
+                    }
+                },
                 "support": {
-                    "source": "https://github.com/simar0at/vLIB/tree/4.2.1-p1",
+                    "source": "https://github.com/simar0at/vLIB/tree/master",
                     "issues": "https://github.com/simar0at/vLIB/issues"
                 }
             }
