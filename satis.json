@@ -1,8 +1,9 @@
 {
-	"name": "ACDH Projects",
+    "name": "ACDH Projects",
     "homepage": "http://simar0at.github.io/composer-repos/",
     "repositories": [
-        { "type": "vcs", "url": "https://github.com/simar0at/vLIB" }
+        {"type": "vcs", "url": "https://github.com/simar0at/vLIB"}
     ],
-    "require-all": true
+    "require-all": true,
+    "output-dir": "web"
 }
