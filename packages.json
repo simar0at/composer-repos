@@ -1,5 +1,69 @@
 {
     "packages": {
+        "ACDH/FcsXmlTemplates": {
+            "0.6.0": {
+                "name": "ACDH/FcsXmlTemplates",
+                "version": "0.6.0",
+                "version_normalized": "0.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/simar0at/fcs-xml-templates.git",
+                    "reference": "3567b2213b426e8e642c50904f1c6fbaddccea44"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/simar0at/fcs-xml-templates/zipball/3567b2213b426e8e642c50904f1c6fbaddccea44",
+                    "reference": "3567b2213b426e8e642c50904f1c6fbaddccea44",
+                    "shasum": ""
+                },
+                "require": {
+                    "clausvb/vlib": "dev-master"
+                },
+                "time": "2014-01-15 16:49:47",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "ACDH\\FcsXmlTemplates\\": "src",
+                        "ACDH\\FcsXmlTemplates\\Tests\\": "test"
+                    }
+                },
+                "support": {
+                    "source": "https://github.com/simar0at/fcs-xml-templates/tree/0.6.0",
+                    "issues": "https://github.com/simar0at/fcs-xml-templates/issues"
+                }
+            },
+            "dev-master": {
+                "name": "ACDH/FcsXmlTemplates",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/simar0at/fcs-xml-templates.git",
+                    "reference": "3567b2213b426e8e642c50904f1c6fbaddccea44"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/simar0at/fcs-xml-templates/zipball/3567b2213b426e8e642c50904f1c6fbaddccea44",
+                    "reference": "3567b2213b426e8e642c50904f1c6fbaddccea44",
+                    "shasum": ""
+                },
+                "require": {
+                    "clausvb/vlib": "dev-master"
+                },
+                "time": "2014-01-15 16:49:47",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "ACDH\\FcsXmlTemplates\\": "src",
+                        "ACDH\\FcsXmlTemplates\\Tests\\": "test"
+                    }
+                },
+                "support": {
+                    "source": "https://github.com/simar0at/fcs-xml-templates/tree/0.6.0",
+                    "issues": "https://github.com/simar0at/fcs-xml-templates/issues"
+                }
+            }
+        },
         "clausvb/vlib": {
             "4.2.1-p1": {
                 "name": "clausvb/vlib",
@@ -23,6 +87,36 @@
                 "type": "library",
                 "support": {
                     "source": "https://github.com/simar0at/vLIB/tree/4.2.1-p1",
+                    "issues": "https://github.com/simar0at/vLIB/issues"
+                }
+            },
+            "4.2.1-p2": {
+                "name": "clausvb/vlib",
+                "version": "4.2.1-p2",
+                "version_normalized": "4.2.1.0-patch2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/simar0at/vLIB.git",
+                    "reference": "5b19eb0a2679ebbe9891be84ed8b9f0dd1b9445b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/simar0at/vLIB/zipball/5b19eb0a2679ebbe9891be84ed8b9f0dd1b9445b",
+                    "reference": "5b19eb0a2679ebbe9891be84ed8b9f0dd1b9445b",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.3"
+                },
+                "time": "2014-01-14 11:57:25",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "clausvb\\vlib\\": ""
+                    }
+                },
+                "support": {
+                    "source": "https://github.com/simar0at/vLIB/tree/master",
                     "issues": "https://github.com/simar0at/vLIB/issues"
                 }
             },
